@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🔭 I’m currently working on building more on the blockchain and documenting about it
+- 🌱 I’m currently learning solidity & Rust, also checking into securities of smart contracts
+- 👯 I’m looking to collaborate on Javascript or any blockchain project
 
 <!--
 **Izzycious/Izzycious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
