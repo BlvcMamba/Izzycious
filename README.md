@@ -7,19 +7,56 @@
 
 
 
-- I write articles on blockchain ✨ on [hashnode]: https://izzycious.hashnode.dev/
+- Read my blog posts via [Hashnode](https://izzycious.hashnode.dev/)
 
 <!--
 **Izzycious/Izzycious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Reach Me
+
+[![Work Email](https://img.shields.io/badge/mail-WORK-white?style=for-the-badge&logo=mail)](mailto:ishaqnasir.py@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-DHARNARH-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
+[![Twitter](https://img.shields.io/badge/twitter-DHARNARH-blue?style=for-the-badge&logo=twitter)](https://twitter.com/blvc_izzy)
+[![Github](https://img.shields.io/badge/Github-DHARNARH-gold?style=for-the-badge&logo=github)](https://github.com/izzycious)
+[![Telegram](https://img.shields.io/badge/telegram-DHARNARH-blue?style=for-the-badge&logo=telegram)](https://t.me/Blackninja2)
+
+## Currently Doing
+
+- Running a Digital Agency [Thedevbuild](https://thedevbuild.com) 😩
+- Trying to get a degree in Mathematics 😀
+- Team management 👨🏾‍💼
+
+## Development Tools
+
+- **Editor/IDE —** Visual Studio Code
+- **VCS —** Git, Github, Radicle
+- **UI Design —** Figma
+- **Active Chat —** Telegram [chat here](t.me/Blackninja2)
+
+## Skills
+
+- **Front End Web Development —** HTML5,  CSS3, JavaScript,
+- **Programming Language —** JavaScript (Nodejs), Familiar with C++, Familiar with Python, Solidity, Familiar with Sway/Rust
+- **Version Control System —** Git, Github, Radicle
+- **Content Management System —** WordPress, Custom CMS
+- **User Interface Design —** Adobe Photoshop, Adobe Illustrator, Figma
+- **Framework —** React, Next.js, Ex Bootstrap, JQuery
+- **Database —** MongoDB, MySQL
+
+## Collaboration
+
+Open for collaboration.
+
+<!--
+https://github.com/anuraghazra/github-readme-stats
+-->
+<!-->
+## Github Stats
+
+<a href="https://umar.website" target="_blank" rel="noopener">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=dharnarh&show_icons=true" />
+</a>
+<a href="https://umar.website" target="_blank" rel="noopener">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharnarh&layout=compact" />
+</a>
