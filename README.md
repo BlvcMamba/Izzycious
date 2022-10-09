@@ -23,7 +23,7 @@
 
 ## Currently Doing
 
-- Running a Digital Agency [Thedevbuild](https://thedevbuild.com) 😩
+- Collaborating on a Digital Agency [Thedevbuild](https://thedevbuild.com) 😩
 - Trying to get a degree in Mathematics 😀
 - Team management 👨🏾‍💼
 
@@ -41,7 +41,7 @@
 - **Version Control System —** Git, Github, Radicle
 - **Content Management System —** WordPress, Custom CMS
 - **User Interface Design —** Adobe Photoshop, Adobe Illustrator, Figma
-- **Framework —** React, Next.js, Ex Bootstrap, JQuery
+- **Framework —** React, Next.js, Bootstrap, JQuery
 - **Database —** MongoDB, MySQL
 
 ## Collaboration
