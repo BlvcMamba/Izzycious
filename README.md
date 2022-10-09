@@ -16,7 +16,7 @@
 ## Reach Me
 
 [![Work Email](https://img.shields.io/badge/mail-WORK-white?style=for-the-badge&logo=mail)](mailto:ishaqnasir.py@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Izzycious-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Izzycious-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nasir-ishaq-199446137/)
 [![Twitter](https://img.shields.io/badge/twitter-Izzycious-blue?style=for-the-badge&logo=twitter)](https://twitter.com/blvc_izzy)
 [![Github](https://img.shields.io/badge/Github-Izzycious-gold?style=for-the-badge&logo=github)](https://github.com/izzycious)
 [![Telegram](https://img.shields.io/badge/telegram-Izzycious-blue?style=for-the-badge&logo=telegram)](https://t.me/Blackninja2)
