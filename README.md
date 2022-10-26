@@ -5,8 +5,6 @@
 - 👯 I’m looking to collaborate on Javascript or any blockchain project which are EVM compatible.
 - 👯 I’m looking to collaborate on writing documentations and Help projects with their technical concepts.
 
-
-
 - Read my blog posts via [Hashnode](https://izzycious.hashnode.dev/)
 
 <!--
@@ -36,7 +34,7 @@
 
 ## Skills
 
-- **Front End Web Development —** HTML5,  CSS3, JavaScript,
+- **Front End Web Development —** HTML5, CSS3, JavaScript,
 - **Programming Language —** JavaScript (Nodejs), Familiar with C++, Familiar with Python, Solidity, Familiar with Sway/Rust
 - **Version Control System —** Git, Github, Radicle
 - **Content Management System —** WordPress, Custom CMS
@@ -44,7 +42,11 @@
 - **Framework —** React, Next.js, Bootstrap, JQuery
 - **Database —** MongoDB, MySQL
 
+## Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Collaboration
 
 Open for collaboration.
-
