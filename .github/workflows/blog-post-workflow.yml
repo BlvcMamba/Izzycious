@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: izzycious/blog-post-workflow@v1
+        uses: gautamkrishna/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/izzycious,https://izzycious.hashnode.dev/"
