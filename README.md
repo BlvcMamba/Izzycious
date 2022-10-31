@@ -42,7 +42,7 @@
 - **Framework —** React, Next.js, Bootstrap, JQuery
 - **Database —** MongoDB, MySQL
 
-## Recent Blog.
+## Recent Blog :blue_book:
 
 <!-- BLOG-POST-LIST:START -->
 - [Solidity Variables](https://izzycious.hashnode.dev/solidity-variables-cl8cyyctp01gawpnvg6q14doh)
