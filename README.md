@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on building more on the blockchain and documenting about it
-- 🌱 I’m currently learning solidity & Rust, also checking into securities of smart contracts
+- 🔭 I’m working on building more on the blockchain and documenting about it
+- 🌱 I’m learning solidity & Rust, also checking into securities of smart contracts.
 - 👯 I’m looking to collaborate on Javascript or any blockchain project which are EVM compatible.
 - 👯 I’m looking to collaborate on writing documentations and Help projects with their technical concepts.
 
