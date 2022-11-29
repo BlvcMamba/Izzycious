@@ -45,11 +45,11 @@
 ## Recent Blog :blue_book:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cross-chain interoperability and the future of web3](https://izzycious.hashnode.dev/cross-chain-interoperability-and-the-future-of-web3-clb1m66wz000908l17nh9852w)
 - [Solidity Variables](https://izzycious.hashnode.dev/solidity-variables-cl8cyyctp01gawpnvg6q14doh)
 - [Documenting Solidity Journey](https://izzycious.hashnode.dev/documenting-solidity-journey-cl8bp6r6z000wiinvcxg95psd)
 - [Solidity Compiler on Vscode](https://izzycious.hashnode.dev/solidity-compiler-on-vscode-cl5u3o4eg04a9kunv98ukdc2t)
 - [Understanding the Ethereum Virtual Machine](https://izzycious.hashnode.dev/understanding-the-ethereum-virtual-machine-cl5ayuefa00pjcunvejwu4x2p)
-- [Truffle on vscode for blockchain development](https://izzycious.hashnode.dev/truffle-on-vscode-for-blockchain-development-cl53qndj50a1econveroa0b24)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
