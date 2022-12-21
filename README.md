@@ -45,11 +45,11 @@
 ## Recent Blog :blue_book:
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Developer Relations](https://izzycious.hashnode.dev/understanding-developer-relations-clby19bly000q08mg9wcxbr21)
 - [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
 - [Cross-chain interoperability and the future of web3](https://izzycious.hashnode.dev/cross-chain-interoperability-and-the-future-of-web3-clb1m66wz000908l17nh9852w)
 - [Solidity Variables](https://izzycious.hashnode.dev/solidity-variables-cl8cyyctp01gawpnvg6q14doh)
 - [Documenting Solidity Journey](https://izzycious.hashnode.dev/documenting-solidity-journey-cl8bp6r6z000wiinvcxg95psd)
-- [Solidity Compiler on Vscode](https://izzycious.hashnode.dev/solidity-compiler-on-vscode-cl5u3o4eg04a9kunv98ukdc2t)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
