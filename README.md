@@ -45,11 +45,11 @@
 ## Recent Blog :blue_book:
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic Syntax of Rust](https://izzycious.hashnode.dev/basic-syntax-of-rust-clcjh4j6e000608l3ceeg9wl7)
+- [Rust up](https://izzycious.hashnode.dev/rust-up-clcivw414000708mfb1rlhtnc)
+- [Understanding Developer Relations](https://izzycious.hashnode.dev/understanding-developer-relations-clby19bly000q08mg9wcxbr21)
 - [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
-- [Template String in ES6 Javascript](https://dev.to/izzycious/template-string-in-es6-javascript-1i19)
-- [DOCUMENT OBJECT MODEL&lpar;DOM&rpar;](https://dev.to/izzycious/document-object-modeldom-2o5c)
-- [Deep Dive Into Evaluating a WEB3 Project.](https://medium.com/@izzycious/deep-dive-into-evaluating-a-web3-project-a8696346e5f8?source=rss-735c9e967056------2)
-- [Deep Dive: CropBytes Farming](https://medium.com/@izzycious/deep-dive-cropbytes-farming-4df5fe4c676f?source=rss-735c9e967056------2)
+- [Cross-chain interoperability and the future of web3](https://izzycious.hashnode.dev/cross-chain-interoperability-and-the-future-of-web3-clb1m66wz000908l17nh9852w)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
