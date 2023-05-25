@@ -47,9 +47,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Client-Side and Server-side](https://dev.to/izzycious/client-side-and-server-side-cec)
 - [Introduction to Zero-Knowledge Proofs](https://dev.to/izzycious/introduction-to-zero-knowledge-2pg4)
-- [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
-- [Template String in ES6 Javascript](https://dev.to/izzycious/template-string-in-es6-javascript-1i19)
-- [DOCUMENT OBJECT MODEL&lpar;DOM&rpar;](https://dev.to/izzycious/document-object-modeldom-2o5c)
+- [Basic Syntax of Rust](https://izzycious.hashnode.dev/basic-syntax-of-rust-clcjh4j6e000608l3ceeg9wl7)
+- [Rust up](https://izzycious.hashnode.dev/rust-up-clcivw414000708mfb1rlhtnc)
+- [Understanding Developer Relations](https://izzycious.hashnode.dev/understanding-developer-relations-clby19bly000q08mg9wcxbr21)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
