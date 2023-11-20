@@ -48,8 +48,8 @@
 - [An Inside Look Into Smart Contract Hacking](https://medium.com/@BlockchainGladiator/an-inside-look-into-smart-contract-hacking-c0f880de062a?source=rss-5318043432d8------2)
 - [Client-Side and Server-side](https://dev.to/izzycious/client-side-and-server-side-cec)
 - [Introduction to Zero-Knowledge Proofs](https://dev.to/izzycious/introduction-to-zero-knowledge-2pg4)
-- [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
-- [Template String in ES6 Javascript](https://dev.to/izzycious/template-string-in-es6-javascript-1i19)
+- [Basic Syntax of Rust](https://izzycious.hashnode.dev/basic-syntax-of-rust-clcjh4j6e000608l3ceeg9wl7)
+- [Rust up](https://izzycious.hashnode.dev/rust-up-clcivw414000708mfb1rlhtnc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
