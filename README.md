@@ -45,11 +45,11 @@
 ## Recent Blog :blue_book:
 
 <!-- BLOG-POST-LIST:START -->
+- [An Inside Look Into Smart Contract Hacking](https://medium.com/@BlockchainGladiator/an-inside-look-into-smart-contract-hacking-c0f880de062a?source=rss-5318043432d8------2)
 - [Client-Side and Server-side](https://dev.to/izzycious/client-side-and-server-side-cec)
 - [Introduction to Zero-Knowledge Proofs](https://dev.to/izzycious/introduction-to-zero-knowledge-2pg4)
 - [Basic Syntax of Rust](https://izzycious.hashnode.dev/basic-syntax-of-rust-clcjh4j6e000608l3ceeg9wl7)
 - [Rust up](https://izzycious.hashnode.dev/rust-up-clcivw414000708mfb1rlhtnc)
-- [Understanding Developer Relations](https://izzycious.hashnode.dev/understanding-developer-relations-clby19bly000q08mg9wcxbr21)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
