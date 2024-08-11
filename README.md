@@ -45,11 +45,11 @@
 ## Recent Blog :blue_book:
 
 <!-- BLOG-POST-LIST:START -->
-- [An Inside Look Into Smart Contract Hacking](https://medium.com/@BlockchainGladiator/an-inside-look-into-smart-contract-hacking-c0f880de062a?source=rss-5318043432d8------2)
 - [Client-Side and Server-side](https://dev.to/izzycious/client-side-and-server-side-cec)
 - [Introduction to Zero-Knowledge Proofs](https://dev.to/izzycious/introduction-to-zero-knowledge-2pg4)
 - [Basic Syntax of Rust](https://izzycious.hashnode.dev/basic-syntax-of-rust)
 - [Rust up](https://izzycious.hashnode.dev/rust-up)
+- [Dialect Protocol: Enabling Fast and Secure Inter-dApp Communication on the Solana Blockchain](https://medium.com/@izzycious/dialect-protocol-enabling-fast-and-secure-inter-dapp-communication-on-the-solana-blockchain-e99b55a330ce?source=rss-735c9e967056------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
