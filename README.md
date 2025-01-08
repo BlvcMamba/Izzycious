@@ -49,7 +49,7 @@
 - [Introduction to Zero-Knowledge Proofs](https://dev.to/izzycious/introduction-to-zero-knowledge-2pg4)
 - [Basic Syntax of Rust](https://izzycious.hashnode.dev/basic-syntax-of-rust)
 - [Rust up](https://izzycious.hashnode.dev/rust-up)
-- [Understanding Developer Relations](https://izzycious.hashnode.dev/understanding-developer-relations)
+- [Dialect Protocol: Enabling Fast and Secure Inter-dApp Communication on the Solana Blockchain](https://medium.com/@izzycious/dialect-protocol-enabling-fast-and-secure-inter-dapp-communication-on-the-solana-blockchain-e99b55a330ce?source=rss-735c9e967056------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
