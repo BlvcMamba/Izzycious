@@ -45,11 +45,11 @@
 ## Recent Blog :blue_book:
 
 <!-- BLOG-POST-LIST:START -->
-- [Client-Side and Server-side](https://dev.to/izzycious/client-side-and-server-side-cec)
-- [Introduction to Zero-Knowledge Proofs](https://dev.to/izzycious/introduction-to-zero-knowledge-2pg4)
 - [Dialect Protocol: Enabling Fast and Secure Inter-dApp Communication on the Solana Blockchain](https://medium.com/@izzycious/dialect-protocol-enabling-fast-and-secure-inter-dapp-communication-on-the-solana-blockchain-e99b55a330ce?source=rss-735c9e967056------2)
 - [Eclipse: A Tool for Deploying and Managing Smart Contracts on Solana Blockchain.](https://medium.com/@izzycious/eclipse-a-tool-for-deploying-and-managing-smart-contracts-on-solana-blockchain-d8ddbd4f6576?source=rss-735c9e967056------2)
-- [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
+- [Deep Dive Into Evaluating a WEB3 Project.](https://medium.com/@izzycious/deep-dive-into-evaluating-a-web3-project-a8696346e5f8?source=rss-735c9e967056------2)
+- [Deep Dive: CropBytes Farming](https://medium.com/@izzycious/deep-dive-cropbytes-farming-4df5fe4c676f?source=rss-735c9e967056------2)
+- [WHAT MATTERS](https://medium.com/@izzycious/what-matters-4ae3e15bb67e?source=rss-735c9e967056------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
