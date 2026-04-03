@@ -47,9 +47,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Client-Side and Server-side](https://dev.to/izzycious/client-side-and-server-side-cec)
 - [Introduction to Zero-Knowledge Proofs](https://dev.to/izzycious/introduction-to-zero-knowledge-2pg4)
+- [Dialect Protocol: Enabling Fast and Secure Inter-dApp Communication on the Solana Blockchain](https://medium.com/@izzycious/dialect-protocol-enabling-fast-and-secure-inter-dapp-communication-on-the-solana-blockchain-e99b55a330ce?source=rss-735c9e967056------2)
+- [Eclipse: A Tool for Deploying and Managing Smart Contracts on Solana Blockchain.](https://medium.com/@izzycious/eclipse-a-tool-for-deploying-and-managing-smart-contracts-on-solana-blockchain-d8ddbd4f6576?source=rss-735c9e967056------2)
 - [Build a blog profile in Next using Cloudinary and Xata](https://dev.to/hackmamba/build-a-blog-profile-in-next-using-cloudinary-and-xata-3ce6)
-- [Template String in ES6 Javascript](https://dev.to/izzycious/template-string-in-es6-javascript-1i19)
-- [DOCUMENT OBJECT MODEL&lpar;DOM&rpar;](https://dev.to/izzycious/document-object-modeldom-2o5c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Collaboration
